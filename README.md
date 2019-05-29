@@ -6,7 +6,6 @@ Your feedback helps us improve Rainway. If you've found an issue, please let us 
 Anyone can report Rainway bugs on GitHub! Here's how it works:
 
 * Click [“New issue”](//github.com/RainwayApp/bug-tracker/issues/new/choose) and choose the appropriate format.
-(If you don't have a GitHub account yet, this button will help you make one.)
 * Fill out the template with all the relevant info.
 * Thanks a ton for helping make Rainway better!
 
